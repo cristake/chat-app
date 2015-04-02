@@ -48,7 +48,7 @@ angular.module('chatApp')
 		}
 
 
-		$interval(getUpdates, 3000);
+		$interval(getUpdates, 1000);
 
 
 		ChatRoom.show($routeParams.chatRoom)

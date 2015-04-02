@@ -1,3 +1,5 @@
 {
+	"proxy":"http://10.238.24.3:8080",
+	"https-proxy":"http://10.238.24.3:8080",
 	"directory": "libs"
 }
